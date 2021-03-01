@@ -1,1 +1,0 @@
-Repositório para exercícios da plataforma URI
