@@ -1,5 +1,5 @@
 public class Principal {
-    // TODO Auto-generated method stub
-    FabricaChocolate.getInstance();
-    
+    public static void main(String[] args) {
+        FabricaChocolate.getInstance();
+    }
 }
